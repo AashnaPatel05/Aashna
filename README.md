@@ -25,7 +25,8 @@ Input the details in fields
 
 # GUI Preview:
 
-![Screenshot 2025-05-05 185202](https://github.com/user-attachments/assets/ecea2364-162a-42ec-927e-eb10f506cd65)
+![Screenshot 2025-05-05 190024](https://github.com/user-attachments/assets/cb14b4d6-ad12-4fc1-abf3-ddafe3969e69)
+
 
 # Auther:
 
