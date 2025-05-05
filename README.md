@@ -5,9 +5,12 @@ This is a simple Java GUI-based project called staff recruitment system which is
 
 # Project Files:  
 
-StaffHire.java - basic class for staff related information 
+StaffHire.java - basic class for staff related information
+
 FullTimeStaffHire.java - Subclass for hiring Full-time staff 
-PartTimeStaffHire - Subclass for Hiring part-time staff 
+
+PartTimeStaffHire - Subclass for Hiring part-time staff
+
 RecruitmentSystem.java- Main GUI class.
 
 
